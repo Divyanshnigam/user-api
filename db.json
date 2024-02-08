@@ -15,5 +15,12 @@
       "name": "Roy",
       "age": 40
     }
-  ]
+  ],
+  "metadata": {
+    "version": "1.0",
+    "description": "This is an example API.",
+    "author": "John Doe",
+    "license": "MIT",
+    "date_validity": "5/12/25"
+  }
 }
